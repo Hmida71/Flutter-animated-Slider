@@ -9,8 +9,7 @@
 </code></pre>
 
 <h2>Finally</h2>
-<pre><code>
- import 'package:carousel_slider/carousel_slider.dart';
+<pre><code>import 'package:carousel_slider/carousel_slider.dart';
 </code></pre>
 
 
