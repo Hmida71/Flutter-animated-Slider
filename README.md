@@ -1,6 +1,10 @@
 # Flutter-animated-Slider
 
 <hr>
+
+<img src="https://user-images.githubusercontent.com/69757558/145676499-65ac250a-861a-4039-b1ff-96e61ad380b3.png" width="300" />
+
+<hr>
 <h2>Firt you need to add this in pub yamel :</h2>
 
 
